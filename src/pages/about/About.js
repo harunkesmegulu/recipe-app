@@ -5,14 +5,14 @@ import AboutDiv from "./About.style";
 const About = () => {
   return (
     <AboutDiv  className="container  ">
-      <p className="text-center display-1 ">A.Tarık Öztürk</p>
+      <p className="text-center display-1 ">Harun KESMEGÜLÜ</p>
       <br /> <br />
       <p className="text-danger">
         Front-end Developer | HTML | CSS | JavaScript | Agile - Scrum - Kanban -
         Jira| Git | GitHub | Sass | Bootstrap{" "}
       </p>
       <br /> <br />
-      Ankara, Türkiye
+      Balıkesir, Türkiye
       
       <p className="text-center display-2 "> SPECİALS </p>
       <p className="text-warning">
